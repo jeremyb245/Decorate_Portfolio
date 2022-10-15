@@ -1,0 +1,24 @@
+body{
+    background: green;
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    height: 500px;
+}
+
+.menu{
+    text-align: center;
+    display: inline;
+}
+
+.nav-bar{
+    display: inline;
+}
+
+#email{
+    list-style-image: url('./images/tech-support-dont-worry-the-tech-guy-is-zorindesigns.jpg');
+}
