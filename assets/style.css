@@ -6,19 +6,17 @@ h1{
     text-align: center;
 }
 
+.menu{
+    border: 1px solid black;
+    text-align: center;
+    list-style-type: none;
+}
+
+.menu li{
+    display: inline;
+}
+
 img{
     height: 500px;
 }
 
-.menu{
-    text-align: center;
-    display: inline;
-}
-
-.nav-bar{
-    display: inline;
-}
-
-#email{
-    list-style-image: url('./images/tech-support-dont-worry-the-tech-guy-is-zorindesigns.jpg');
-}
